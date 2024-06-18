@@ -1,0 +1,62 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"item": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "themselves",
+									"type": "Text"
+								}
+							],
+							[
+								"time_period",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "ranch",
+									"type": "Text"
+								}
+							],
+							[
+								"institution",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "lower",
+									"type": "Text"
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Elit velit cillum in excepteur eu irure fugiat. Proident id consequat id. Occaecat adipisicing dolore aliqua ullamco velit adipisicing commodo."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "until",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
